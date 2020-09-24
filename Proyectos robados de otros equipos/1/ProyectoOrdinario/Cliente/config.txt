@@ -1,0 +1,5 @@
+dnf list installed
+ifconfig -a
+ListaDeProgramas.pdf
+ListaDeProgramas.csv
+192.168.100.155

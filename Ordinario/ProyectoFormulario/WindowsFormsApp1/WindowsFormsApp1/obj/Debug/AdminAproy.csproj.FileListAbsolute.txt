@@ -1,0 +1,77 @@
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csprojAssemblyReference.cache
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pantalla.resources
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.GenerateResource.cache
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.CoreCompileInputs.cache
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.CopyComplete
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gus64\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csprojAssemblyReference.cache
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pantalla.resources
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.GenerateResource.cache
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.CoreCompileInputs.cache
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.CopyComplete
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\gus64\Documents\FIME\6to semestre\Diseño\BackUp Proyecto\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Convertir_PDF.resources
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csprojAssemblyReference.cache
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Convertir_PDF.resources
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pantalla.resources
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.GenerateResource.cache
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.CoreCompileInputs.cache
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.CopyComplete
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gus64\Documents\FIME\6to semestre\Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SautinSoft.PdfFocus.dll
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SautinSoft.PdfFocus.xml
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csprojAssemblyReference.cache
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Convertir_PDF.resources
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pantalla.resources
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.GenerateResource.cache
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.CoreCompileInputs.cache
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AdminAproy.csproj.CopyComplete
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gus64\Desktop\Ordinario Aproy\ProyectoFormulario\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
